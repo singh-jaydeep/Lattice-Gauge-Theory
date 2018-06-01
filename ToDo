@@ -1,0 +1,14 @@
+## Atm, this list is unorganized
+
+- Accept arguments from user in command line
+    -Gauge group, coupling, number for experiment (1  = confinement, others...), number for algorithm
+    (e.g. Metropolis, Heat Bath)
+
+- Project to unitarity regularly!
+- Think about random number generator (how to save seed)
+-After each update, manually enforce boundary conditions
+
+
+Notes for init_array.py
+   -Is there a way to automatically account for different dimensions?
+   -Add support for other gauge groups
